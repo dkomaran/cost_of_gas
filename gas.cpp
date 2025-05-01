@@ -6,7 +6,7 @@
 
 #include <iostream> //this allow for using cin and cout commands, always good to have in your program
 #include <stdlib.h> //this allow for some standard libraries
-#include <cstdio> //this allows for using C programming commands like printf which will allow for formattinh of input that cout doesn't do
+#include <cstdio> //this allows for using C programming commands like printf which will allow for formatting of input that cout doesn't do
 
 using namespace std; //allows for using cin or cout without needing std:: in front of those commands, should be in the header section of almost all programs
 
