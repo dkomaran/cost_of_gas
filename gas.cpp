@@ -56,4 +56,8 @@ Enter distance travelled in km:
 Total cost of trip:	$5.74
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+<<<<<<< Updated upstream
 */
+=======
+*/                     
+>>>>>>> Stashed changes
